@@ -11,7 +11,9 @@ This repo is a space for experimenting with the Eleventy SSG as an alternative t
 ## Getting Started
 Needs Node, of course, but after that, two simple commands should get everythign up and running.
 
-- `$npm install`
-- `$gulp`
+```
+$npm install
+$gulp
+```
 
-(The $gulp command may be something I've configured globally and forgotten about. If anyone _does_ actually every play with this repo and notices that doesn't work for them, please do let me know.)
+(The `$gulp` command may be something I've configured globally and forgotten about. If anyone _does_ actually every play with this repo and notices that doesn't work for them, please do let me know.)
