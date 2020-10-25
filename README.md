@@ -9,11 +9,11 @@ This repo is a space for experimenting with the Eleventy SSG as an alternative t
 -  Browsersync—part of 11ty, or course—but I wanted a bit more control over how it runs than I was easily able to figure out with what came as part of 11ty. In addition to supporting PHP, I also wanted this site to run on a different port (3030). This, I suspect, will help avoid conflicts with serviceworkers I have running on other sites I develop and test locally (on :3000).
 
 ## Getting Started
-Needs Node, of course, but after that, two simple commands should get everythign up and running.
+Needs Node, of course, but after that, two simple commands should get everythign up and running:
 
 ```
-$npm install
-$gulp
+- $npm install
+- $gulp
 ```
 
 (The `$gulp` command may be something I've configured globally and forgotten about. If anyone _does_ actually every play with this repo and notices that doesn't work for them, please do let me know.)
